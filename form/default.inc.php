@@ -1,50 +1,4 @@
-<style type="text/css">
-* {margin: 0;
-  padding: 0;
-  border: 0;
-}
-
-body{
-  background: linear-gradient(45deg, white, #eff0f2) fixed;
-}
-
-.container {
-  padding: 60px;
-  max-width: 900px
-  margin:0 auto;
-  text-align: center;
-}
-
-header{
-  padding: 60px 0px 0px 0px
-}
-
-nav{
-  padding: 50px 0px 0px 0px;
-  width: 450px;
-  margin: 0 auto;
-}
-
-nav ul li {
-    display: inline;
-    text-decoration: none;
-    padding: 100px 10px;
-    text-align: center;
-  }
-
-nav ul li a{
-   text-decoration: none;
-   color: black;
-   font-size: 32px;
- }
-
- nav ul li
- a:hover {
-   color: #f1b7a7;
- }
-
-
-
+<html>
 <header>
   <nav>
     <ul>
@@ -55,9 +9,11 @@ nav ul li a{
     </ul>
   </nav>
 </header>
-
+<body>
 
 <div class="container">
     <h1>Sorry, something went wrong!</h1>
     <p>Please try again.</p>
 </div>
+</body>
+</html>

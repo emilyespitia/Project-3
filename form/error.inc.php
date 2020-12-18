@@ -1,47 +1,9 @@
-<style type="text/css">
-* {margin: 0;
-  padding: 0;
-  border: 0;
-}
-
-body{
-  background: linear-gradient(45deg, white, #eff0f2) fixed;
-}
-
-.container {
-  padding: 60px;
-  max-width: 900px
-  margin:0 auto;
-  text-align: center;
-}
-
-header{
-  padding: 60px 0px 0px 0px
-}
-
-nav{
-  padding: 50px 0px 0px 0px;
-  width: 450px;
-  margin: 0 auto;
-}
-
-nav ul li {
-    display: inline;
-    text-decoration: none;
-    padding: 100px 10px;
-    text-align: center;
-  }
-
-nav ul li a{
-   text-decoration: none;
-   color: black;
-   font-size: 32px;
- }
-
- nav ul li
- a:hover {
-   color: #f1b7a7;
- }
+<html>
+<head>
+  <link href="style.css" type="text/css" rel="stylesheet">
+  <link rel="icon" type="image/ico" href="images/faviconcorgi.ico">
+</head>
+<body>
 
 
 <header>
@@ -71,3 +33,5 @@ nav ul li a{
 
 	<p><strong><a href="#" onClick="history.go(-1)">Back to form</a></strong></p>
 </div>
+</body>
+</html>
