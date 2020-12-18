@@ -1,0 +1,80 @@
+*{margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+@font-face {
+  font-family: "Geosans" ;
+  src: url('fonts/Geosans1.ttf') format('truetype');
+}
+/* =========
+Universal Styling
+===========*/
+
+h1, h2, p, ul, ol, li, figcaption {
+  font-family: "Geosans";
+}
+
+body {
+  background: linear-gradient(45deg, white, #eff0f2) fixed;
+
+}
+
+
+  /* =========
+  Universal Styling
+  ===========*/
+
+
+  /* =========
+  navigation links
+  ===========*/
+
+nav{
+  padding: 20px;
+  width: 450px;
+  margin: 0 auto;
+}
+
+nav ul li {
+      display: inline;
+      text-decoration: none;
+      padding: 5px 10px;
+      text-align: center;
+  }
+
+a{
+  color: black;
+}
+
+nav ul li a{
+   text-decoration: none;
+   color: black;
+   font-size: 32px;
+
+ }
+
+ nav ul li
+
+ a:hover {
+   color: #f1b7a7;
+ }
+
+ /* =========
+ navigation links
+ ===========*/
+
+ /* =========
+ Images
+ ===========*/
+
+ .image1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 99%;
+ }
+
+ .image2{
+
+ }
