@@ -3,7 +3,7 @@
 <?
 
 // From processing takes place here. message displayed here too
-require('form/form.class.php');
+require('form.class.php');
 $form = new Form();
 $form->processForm(
 
