@@ -26,6 +26,12 @@ body {
   Universal Styling
   ===========*/
 
+
+  ::selection {
+  color: #f1b7a7;
+  background: yellow;
+}
+
 .welcome
  {
   text-align: center;
