@@ -34,6 +34,10 @@ body {
   padding: ;
   }
 
+  ul {
+    list-style-type: none;
+  }
+
 
 h1{
   margin: 0 auto;
