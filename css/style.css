@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: "Geosans" ;
-  src: url('fonts/Geosans1.ttf') format('truetype');
+  src: url('../fonts/Geosans1.ttf') format('truetype');
 }
 /* =========
 Universal Styling
